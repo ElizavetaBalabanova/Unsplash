@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.intermedia.intermedia.app-mergeDebugResources-70:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/res/values-night-v31/color.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,141",
+                        "endColumns": "84,77",
+                        "endOffsets": "136,214"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,77",
+                        "endOffsets": "135,213"
+                    }
+                }
+            ]
+        }
+    ]
+}

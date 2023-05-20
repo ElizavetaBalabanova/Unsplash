@@ -1,0 +1,1221 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:162:9-170:20
+	android:grantUriPermissions
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:166:13-47
+	android:authorities
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:164:13-64
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:165:13-37
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:163:13-62
+provider#com.intermedia.intermedia.provider.IntermediaMuzeiArtProvider
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:171:9-185:20
+	android:authorities
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:173:13-68
+	android:label
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:176:13-45
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:175:13-36
+	android:permission
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:177:13-83
+	android:description
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:174:13-58
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:172:13-64
+provider#androidx.startup.InitializationProvider
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:200:9-203:35
+REJECTED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:203:13-32
+	android:authorities
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:202:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:201:13-67
+manifest
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/792831eff5d3a73c4883673a7c2ac937/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [io.insert-koin:koin-androidx-workmanager:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/a9c81194d7a97dfd10bd7d9dc95b324e/transformed/jetified-koin-androidx-workmanager-3.3.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.work:work-runtime-ktx:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8f111a5e37cadbce5a46cd900782171a/transformed/work-runtime-ktx-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference-ktx:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3206c01886222bccf8f0c23e4a1f21bd/transformed/jetified-preference-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/c3648a1777fe190bfa78bef578a249a7/transformed/jetified-koin-android-3.3.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.kirich1409:viewbindingpropertydelegate:1.5.6] /Users/alexeybalabanov/.gradle/caches/transforms-3/8b15b71c3c91cdc4cc1d309d237f2d64/transformed/jetified-viewbindingpropertydelegate-1.5.6/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.preference:preference:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f04361f99e7debf08ad10ccf9a2d51aa/transformed/preference-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/995088667688980d518f892d683b2856/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/b99a4b68680269fe41c33d8a6488bab5/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.kirich1409:viewbindingpropertydelegate-noreflection:1.5.6] /Users/alexeybalabanov/.gradle/caches/transforms-3/05e4cddf2a368fd3b5e7fa44b04d4864/transformed/jetified-viewbindingpropertydelegate-noreflection-1.5.6/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba47540b0e379575d9d97746f6adb2ce/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/bab90e6d1a636a37ef7ae9bb8fba63c9/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/6c4da29f17bde5e9f014dfa910b36eaf/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.9.0-alpha02] /Users/alexeybalabanov/.gradle/caches/transforms-3/32a853490d82fd7e2d8ad0d8a4ce2946/transformed/material-1.9.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/3aefdf13884431636a9856008d314ac6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d815733b05e7593e0c2012dbe281326f/transformed/jetified-lottie-5.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/de291410f5b0f0501c751c74e3c99782/transformed/jetified-PhotoView-2.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.intik:overflow-pager-indicator:3.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f2dd4727e40a059ba3196c6bcf2c6fef/transformed/jetified-overflow-pager-indicator-3.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/a727e01e67174c0819e7035f423c4a71/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/0294e37a675dd5e9ece5df1dece7759e/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/54ac40c491d207f5de70472cceb4077f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:glide-transformations:4.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/aa8670ae57cd2d51e2a7c561da3e9f78/transformed/jetified-glide-transformations-4.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/fa19e9397aa0c7a5f3c04de7849c76bc/transformed/jetified-glide-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6487d3a5ef2e418bcf84671f03942bfe/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/857a17905b3dca54fafe55441bd5b349/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5135c05fea9c5ab6319aa1a9fbd5e95/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.billingclient:billing-ktx:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7d743908a17bc9089bc636529611f30e/transformed/jetified-billing-ktx-5.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5ffe7dc27464de2e47c6c02c6af6a5e9/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/62f30396fbed65205a40182a4dc7e56f/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c37c7592eafc7879a65d7d456b48503a/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/alexeybalabanov/.gradle/caches/transforms-3/8291153aa12b9845211eb346a6073df0/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/4788d70211ce03553142f51d2bc3462b/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/837d27797e0b480ef7ff8b7a8e4ba377/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/9fa694427b2256fe5931f02e7e9c05dc/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/0ecd7ffceb076a01fb847d61d34151a8/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/17fa26f1cad3bd4f7d636695375bddef/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/d1570c25ca0b535e79498d472454b5fc/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/f9af2e67cd113d19ebb6c1ae73d9e21d/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/5f5245283cbecc10fd8c7547ca8815a6/transformed/jetified-room-ktx-2.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/64aa789f7e722fba5e29a59df4e2f8f5/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/11c8482ffbf4bda3d0e683b01745359f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7ddb0856e12eb0939d0f5acd9544217e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/4bdf17db844da0486459d0ea048b2822/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1f1006866010979861409fc3408e7990/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1af2e0a829f7bd779d3e85271d8fbbb1/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/044b23d00715dbfff3ae9606d74abcc2/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/375660b98e232969fa0334c8f5661950/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/3372ff0a807507f5857bb9cafa15fa75/transformed/jetified-leakcanary-android-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:17:1-104:12
+MERGED from [androidx.browser:browser:1.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e040cefd74fffea9167538a3cf15c2c0/transformed/browser-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6d550fa049481223c79006c579f7acf8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d3413ad98c57ee7cae6274056559f5a/transformed/jetified-paging-runtime-ktx-2.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.1.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c679fa9b50fe2c93cb485f197a865b9b/transformed/paging-runtime-2.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1b2ccf07eb96f830db8b1655f0f00019/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/37db89482742bf96235fb4e0a9370f52/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e0dd649c218a30cd69c5e1c6da4c2a14/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.media:media:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3cbf6f99c968ad5b5ddfeaadef24fd83/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5fd0bdecf01fc975e69a2fcec88ca4db/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6a94665a4aa64655e5778361ecd00ff2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/53d2e5fd1dc4554d12d26d8b6f526279/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/da4f5ef67734f28b3e15ab36364c1a38/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f21a4c6efe2c9f9af3f45027612b92ac/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/a2168070e082133f49959349295a4e9d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/b3b7f8f349ca1d1094b115b9d93c6fcc/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.andkulikov:transitionseverywhere:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce7841bec277739b79af2a2f3e3b6410/transformed/jetified-transitionseverywhere-2.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/c9dbe997abd321ba05f485c6e12ad8ab/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/83eaca437d92a4e89ceb87889d4d8372/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-splashscreen:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba0f515bb15cf93273785aff9f0fb83b/transformed/jetified-core-splashscreen-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/0bbe348c7ebe7721bcc37b19591430d6/transformed/jetified-lifecycle-service-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.52.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e46b98f5d49a8436ec0d490c9cb7fa52/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e84a6b78026ca30390b98dfb5adeb9e7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/709490eddf06f027ec84e179a1852bf9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3ebd66ef0585bcdc7e7e30f1fcca375d/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d1065b79826065174c3021ebc228d542/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/8862155d0c9aec897676b4be09bee294/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6b43f850db298382c8336e9b8c4b1173/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/95ae80fa03bc07bf67bd889bab8ee5ab/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6250ee9c75e84cad4e1a89325e254e0b/transformed/sqlite-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5a2c2e83c3bd689875b25654ecea42b/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/721815c92c962973c84c10e83df414e8/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/849ed7df6899ef55d076cae6a16cff75/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba7aee3b52877317c4731e1cc3a93aec/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ac230aee5019fe0fc159f9d11dca773c/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/a55711671a56a0627d73260da230ed6f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/42e40dff6ec904025ef7dc7037a1a00e/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8ae75dab057ed25835aa7720f67e8ba3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba0130c68af0c1f075c79142acc313a1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d034eee12ca5004b34dabc684483dbe5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f919d38528ba9041327a469b90d03b28/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/c022454ae1057e19fdf7c62de7cd4cd4/transformed/jetified-leakcanary-object-watcher-android-androidx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/f7718c898b14777c845d8a6c3da11889/transformed/jetified-leakcanary-object-watcher-android-support-fragments-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/d034e06a51fa09474833a25abb702cf4/transformed/jetified-leakcanary-object-watcher-android-core-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9cd98c2dc058a41e8e18df337ba5775/transformed/jetified-plumber-android-core-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/a4b5560270668eece738734da2ee1cda/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/d68daa6046ea70dbfd608bb85bc4d8f6/transformed/jetified-leakcanary-android-utils-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.curtains:curtains:1.2.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/5f636bb15dc5cc6672aea9c4f07ff8b8/transformed/jetified-curtains-1.2.4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/708e9f42b8ece99c285d6e8daae3882e/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+	package
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:1-206:12
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:5:5-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:12:5-79
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e46b98f5d49a8436ec0d490c9cb7fa52/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e46b98f5d49a8436ec0d490c9cb7fa52/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:10:22-69
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:12:5-15:40
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:26:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:26:5-81
+	android:maxSdkVersion
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:14:9-35
+	tools:ignore
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:15:9-37
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:13:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:16:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:25:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:17:5-68
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:18:5-81
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:18:22-78
+queries
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:20:5-24:15
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:24:5-28:15
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:24:5-28:15
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:16:5-20:15
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:16:5-20:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:21:9-23:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:22:13-90
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:22:21-87
+application
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:26:5-204:19
+MERGED from [io.insert-koin:koin-androidx-workmanager:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/a9c81194d7a97dfd10bd7d9dc95b324e/transformed/jetified-koin-androidx-workmanager-3.3.3/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-androidx-workmanager:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/a9c81194d7a97dfd10bd7d9dc95b324e/transformed/jetified-koin-androidx-workmanager-3.3.3/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/c3648a1777fe190bfa78bef578a249a7/transformed/jetified-koin-android-3.3.3/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/c3648a1777fe190bfa78bef578a249a7/transformed/jetified-koin-android-3.3.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.9.0-alpha02] /Users/alexeybalabanov/.gradle/caches/transforms-3/32a853490d82fd7e2d8ad0d8a4ce2946/transformed/material-1.9.0-alpha02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0-alpha02] /Users/alexeybalabanov/.gradle/caches/transforms-3/32a853490d82fd7e2d8ad0d8a4ce2946/transformed/material-1.9.0-alpha02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/3aefdf13884431636a9856008d314ac6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/3aefdf13884431636a9856008d314ac6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d815733b05e7593e0c2012dbe281326f/transformed/jetified-lottie-5.2.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d815733b05e7593e0c2012dbe281326f/transformed/jetified-lottie-5.2.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.intik:overflow-pager-indicator:3.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f2dd4727e40a059ba3196c6bcf2c6fef/transformed/jetified-overflow-pager-indicator-3.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.intik:overflow-pager-indicator:3.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f2dd4727e40a059ba3196c6bcf2c6fef/transformed/jetified-overflow-pager-indicator-3.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/fa19e9397aa0c7a5f3c04de7849c76bc/transformed/jetified-glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/fa19e9397aa0c7a5f3c04de7849c76bc/transformed/jetified-glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/857a17905b3dca54fafe55441bd5b349/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/857a17905b3dca54fafe55441bd5b349/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/62f30396fbed65205a40182a4dc7e56f/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/62f30396fbed65205a40182a4dc7e56f/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c37c7592eafc7879a65d7d456b48503a/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c37c7592eafc7879a65d7d456b48503a/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:30:5-102:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:30:5-102:19
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:30:5-34:19
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.andkulikov:transitionseverywhere:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce7841bec277739b79af2a2f3e3b6410/transformed/jetified-transitionseverywhere-2.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.andkulikov:transitionseverywhere:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce7841bec277739b79af2a2f3e3b6410/transformed/jetified-transitionseverywhere-2.1.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/8862155d0c9aec897676b4be09bee294/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/8862155d0c9aec897676b4be09bee294/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5a2c2e83c3bd689875b25654ecea42b/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5a2c2e83c3bd689875b25654ecea42b/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:22:5-32:19
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:22:5-32:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:34:9-35
+	android:label
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:31:9-41
+	android:fullBackupContent
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:29:9-54
+	android:roundIcon
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:33:9-54
+	android:largeHeap
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:32:9-33
+	android:icon
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:35:9-55
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:27:9-46
+activity#com.intermedia.intermedia.ActivityStartOnboarding
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:36:9-44:20
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:37:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:42:27-74
+activity#com.intermedia.intermedia.ui.webview.WebViewActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:45:9-64
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:45:19-61
+activity#com.intermedia.intermedia.ui.user.edit.EditProfileActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:46:9-70
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:46:19-67
+activity#com.intermedia.intermedia.ui.user.UserActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:47:9-49:62
+	android:configChanges
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:49:13-59
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:48:13-49
+activity#com.intermedia.intermedia.ui.collection.detail.CollectionDetailActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:50:9-52:62
+	android:configChanges
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:52:13-59
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:51:13-74
+activity#com.intermedia.intermedia.ui.photo.zoom.PhotoZoomActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:53:9-55:72
+	android:theme
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:54:13-60
+activity#com.intermedia.intermedia.ui.photo.detail.PhotoDetailActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:56:9-58:74
+	android:theme
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:58:13-71
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:57:13-64
+activity#com.intermedia.intermedia.ui.search.SearchActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:59:9-61:62
+	android:configChanges
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:61:13-59
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:60:13-53
+activity#com.intermedia.intermedia.ui.settings.SettingsActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:62:9-68:20
+	android:parentActivityName
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:64:13-63
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:63:13-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:65:13-67:82
+	android:value
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:67:17-79
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:66:17-63
+activity#com.intermedia.intermedia.ui.login.LoginActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:69:9-85:20
+	android:launchMode
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:72:13-44
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:70:13-51
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:skillbox+data:pathPrefix:/unsplash-auth-callback+data:scheme:com.example.intermediateproject
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:73:13-84:29
+data
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:74:17-78:54
+	android:path
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:93:21-37
+	android:host
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:75:21-44
+	android:scheme
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:77:21-69
+	android:pathPattern
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:126:21-49
+	tools:ignore
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:78:21-51
+	android:pathPrefix
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:76:21-65
+action#android.intent.action.VIEW
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:80:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:82:17-76
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:82:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:83:17-78
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:83:27-75
+activity#com.intermedia.intermedia.ui.routing.RoutingActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:86:9-134:20
+	android:launchMode
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:89:13-44
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:87:13-55
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:unsplash.com+data:path:/+data:scheme:https
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:90:13-100:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:unsplash.com+data:pathPrefix:/photos/+data:scheme:https
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:101:13-111:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:unsplash.com+data:pathPrefix:/collections/+data:scheme:https
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:112:13-122:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:unsplash.com+data:pathPattern:.*/@.*+data:scheme:https
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:123:13-133:29
+activity#com.intermedia.intermedia.ui.main.MainActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:135:9-149:20
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:138:13-36
+	android:configChanges
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:137:13-59
+	android:theme
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:139:13-59
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:136:13-49
+meta-data#android.app.shortcuts
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:146:13-148:53
+	android:resource
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:148:17-50
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:147:17-53
+service#com.intermedia.intermedia.service.AutoWallpaperTileService
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:151:9-160:19
+	android:label
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:155:13-57
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:153:13-36
+	android:permission
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:156:13-77
+	android:icon
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:154:13-54
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:152:13-61
+intent-filter#action:name:android.service.quicksettings.action.QS_TILE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:157:13-159:29
+action#android.service.quicksettings.action.QS_TILE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:158:17-87
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:158:25-84
+receiver#com.intermedia.intermedia.provider.AutoWallpaperAppWidgetProvider
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:187:9-198:20
+	android:label
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:190:13-66
+	android:exported
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:189:13-36
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:188:13-68
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:191:13-193:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:192:17-84
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:192:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:195:13-197:74
+	android:resource
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:197:17-71
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:196:17-58
+uses-sdk
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/792831eff5d3a73c4883673a7c2ac937/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/792831eff5d3a73c4883673a7c2ac937/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-workmanager:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/a9c81194d7a97dfd10bd7d9dc95b324e/transformed/jetified-koin-androidx-workmanager-3.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-workmanager:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/a9c81194d7a97dfd10bd7d9dc95b324e/transformed/jetified-koin-androidx-workmanager-3.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.work:work-runtime-ktx:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8f111a5e37cadbce5a46cd900782171a/transformed/work-runtime-ktx-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8f111a5e37cadbce5a46cd900782171a/transformed/work-runtime-ktx-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference-ktx:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3206c01886222bccf8f0c23e4a1f21bd/transformed/jetified-preference-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3206c01886222bccf8f0c23e4a1f21bd/transformed/jetified-preference-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/c3648a1777fe190bfa78bef578a249a7/transformed/jetified-koin-android-3.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/c3648a1777fe190bfa78bef578a249a7/transformed/jetified-koin-android-3.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kirich1409:viewbindingpropertydelegate:1.5.6] /Users/alexeybalabanov/.gradle/caches/transforms-3/8b15b71c3c91cdc4cc1d309d237f2d64/transformed/jetified-viewbindingpropertydelegate-1.5.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kirich1409:viewbindingpropertydelegate:1.5.6] /Users/alexeybalabanov/.gradle/caches/transforms-3/8b15b71c3c91cdc4cc1d309d237f2d64/transformed/jetified-viewbindingpropertydelegate-1.5.6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f04361f99e7debf08ad10ccf9a2d51aa/transformed/preference-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f04361f99e7debf08ad10ccf9a2d51aa/transformed/preference-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/995088667688980d518f892d683b2856/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/995088667688980d518f892d683b2856/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/b99a4b68680269fe41c33d8a6488bab5/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/b99a4b68680269fe41c33d8a6488bab5/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.kirich1409:viewbindingpropertydelegate-noreflection:1.5.6] /Users/alexeybalabanov/.gradle/caches/transforms-3/05e4cddf2a368fd3b5e7fa44b04d4864/transformed/jetified-viewbindingpropertydelegate-noreflection-1.5.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kirich1409:viewbindingpropertydelegate-noreflection:1.5.6] /Users/alexeybalabanov/.gradle/caches/transforms-3/05e4cddf2a368fd3b5e7fa44b04d4864/transformed/jetified-viewbindingpropertydelegate-noreflection-1.5.6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba47540b0e379575d9d97746f6adb2ce/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba47540b0e379575d9d97746f6adb2ce/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/bab90e6d1a636a37ef7ae9bb8fba63c9/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/bab90e6d1a636a37ef7ae9bb8fba63c9/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/6c4da29f17bde5e9f014dfa910b36eaf/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/6c4da29f17bde5e9f014dfa910b36eaf/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0-alpha02] /Users/alexeybalabanov/.gradle/caches/transforms-3/32a853490d82fd7e2d8ad0d8a4ce2946/transformed/material-1.9.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0-alpha02] /Users/alexeybalabanov/.gradle/caches/transforms-3/32a853490d82fd7e2d8ad0d8a4ce2946/transformed/material-1.9.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/3aefdf13884431636a9856008d314ac6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/3aefdf13884431636a9856008d314ac6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d815733b05e7593e0c2012dbe281326f/transformed/jetified-lottie-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d815733b05e7593e0c2012dbe281326f/transformed/jetified-lottie-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/de291410f5b0f0501c751c74e3c99782/transformed/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/de291410f5b0f0501c751c74e3c99782/transformed/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.intik:overflow-pager-indicator:3.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f2dd4727e40a059ba3196c6bcf2c6fef/transformed/jetified-overflow-pager-indicator-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.intik:overflow-pager-indicator:3.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f2dd4727e40a059ba3196c6bcf2c6fef/transformed/jetified-overflow-pager-indicator-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/a727e01e67174c0819e7035f423c4a71/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/a727e01e67174c0819e7035f423c4a71/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/0294e37a675dd5e9ece5df1dece7759e/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/0294e37a675dd5e9ece5df1dece7759e/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/54ac40c491d207f5de70472cceb4077f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/54ac40c491d207f5de70472cceb4077f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:glide-transformations:4.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/aa8670ae57cd2d51e2a7c561da3e9f78/transformed/jetified-glide-transformations-4.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:4.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/aa8670ae57cd2d51e2a7c561da3e9f78/transformed/jetified-glide-transformations-4.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/fa19e9397aa0c7a5f3c04de7849c76bc/transformed/jetified-glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/fa19e9397aa0c7a5f3c04de7849c76bc/transformed/jetified-glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6487d3a5ef2e418bcf84671f03942bfe/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6487d3a5ef2e418bcf84671f03942bfe/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/857a17905b3dca54fafe55441bd5b349/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/857a17905b3dca54fafe55441bd5b349/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5135c05fea9c5ab6319aa1a9fbd5e95/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5135c05fea9c5ab6319aa1a9fbd5e95/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.billingclient:billing-ktx:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7d743908a17bc9089bc636529611f30e/transformed/jetified-billing-ktx-5.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.billingclient:billing-ktx:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7d743908a17bc9089bc636529611f30e/transformed/jetified-billing-ktx-5.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5ffe7dc27464de2e47c6c02c6af6a5e9/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5ffe7dc27464de2e47c6c02c6af6a5e9/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/62f30396fbed65205a40182a4dc7e56f/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/62f30396fbed65205a40182a4dc7e56f/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c37c7592eafc7879a65d7d456b48503a/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c37c7592eafc7879a65d7d456b48503a/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/alexeybalabanov/.gradle/caches/transforms-3/8291153aa12b9845211eb346a6073df0/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/alexeybalabanov/.gradle/caches/transforms-3/8291153aa12b9845211eb346a6073df0/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/4788d70211ce03553142f51d2bc3462b/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/4788d70211ce03553142f51d2bc3462b/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/837d27797e0b480ef7ff8b7a8e4ba377/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/837d27797e0b480ef7ff8b7a8e4ba377/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/9fa694427b2256fe5931f02e7e9c05dc/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/9fa694427b2256fe5931f02e7e9c05dc/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/0ecd7ffceb076a01fb847d61d34151a8/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/0ecd7ffceb076a01fb847d61d34151a8/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/17fa26f1cad3bd4f7d636695375bddef/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/17fa26f1cad3bd4f7d636695375bddef/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/d1570c25ca0b535e79498d472454b5fc/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/d1570c25ca0b535e79498d472454b5fc/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/f9af2e67cd113d19ebb6c1ae73d9e21d/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/f9af2e67cd113d19ebb6c1ae73d9e21d/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/5f5245283cbecc10fd8c7547ca8815a6/transformed/jetified-room-ktx-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/5f5245283cbecc10fd8c7547ca8815a6/transformed/jetified-room-ktx-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/64aa789f7e722fba5e29a59df4e2f8f5/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/64aa789f7e722fba5e29a59df4e2f8f5/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/11c8482ffbf4bda3d0e683b01745359f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/11c8482ffbf4bda3d0e683b01745359f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7ddb0856e12eb0939d0f5acd9544217e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7ddb0856e12eb0939d0f5acd9544217e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/4bdf17db844da0486459d0ea048b2822/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/4bdf17db844da0486459d0ea048b2822/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1f1006866010979861409fc3408e7990/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1f1006866010979861409fc3408e7990/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1af2e0a829f7bd779d3e85271d8fbbb1/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1af2e0a829f7bd779d3e85271d8fbbb1/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/044b23d00715dbfff3ae9606d74abcc2/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/044b23d00715dbfff3ae9606d74abcc2/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/375660b98e232969fa0334c8f5661950/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/375660b98e232969fa0334c8f5661950/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/3372ff0a807507f5857bb9cafa15fa75/transformed/jetified-leakcanary-android-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/3372ff0a807507f5857bb9cafa15fa75/transformed/jetified-leakcanary-android-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e040cefd74fffea9167538a3cf15c2c0/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e040cefd74fffea9167538a3cf15c2c0/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6d550fa049481223c79006c579f7acf8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6d550fa049481223c79006c579f7acf8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d3413ad98c57ee7cae6274056559f5a/transformed/jetified-paging-runtime-ktx-2.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d3413ad98c57ee7cae6274056559f5a/transformed/jetified-paging-runtime-ktx-2.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c679fa9b50fe2c93cb485f197a865b9b/transformed/paging-runtime-2.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/c679fa9b50fe2c93cb485f197a865b9b/transformed/paging-runtime-2.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1b2ccf07eb96f830db8b1655f0f00019/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1b2ccf07eb96f830db8b1655f0f00019/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/37db89482742bf96235fb4e0a9370f52/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/37db89482742bf96235fb4e0a9370f52/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e0dd649c218a30cd69c5e1c6da4c2a14/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e0dd649c218a30cd69c5e1c6da4c2a14/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3cbf6f99c968ad5b5ddfeaadef24fd83/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3cbf6f99c968ad5b5ddfeaadef24fd83/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5fd0bdecf01fc975e69a2fcec88ca4db/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5fd0bdecf01fc975e69a2fcec88ca4db/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6a94665a4aa64655e5778361ecd00ff2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6a94665a4aa64655e5778361ecd00ff2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/53d2e5fd1dc4554d12d26d8b6f526279/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/53d2e5fd1dc4554d12d26d8b6f526279/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/da4f5ef67734f28b3e15ab36364c1a38/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/da4f5ef67734f28b3e15ab36364c1a38/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f21a4c6efe2c9f9af3f45027612b92ac/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f21a4c6efe2c9f9af3f45027612b92ac/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/a2168070e082133f49959349295a4e9d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/a2168070e082133f49959349295a4e9d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/b3b7f8f349ca1d1094b115b9d93c6fcc/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/b3b7f8f349ca1d1094b115b9d93c6fcc/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.andkulikov:transitionseverywhere:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce7841bec277739b79af2a2f3e3b6410/transformed/jetified-transitionseverywhere-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.andkulikov:transitionseverywhere:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce7841bec277739b79af2a2f3e3b6410/transformed/jetified-transitionseverywhere-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/c9dbe997abd321ba05f485c6e12ad8ab/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/c9dbe997abd321ba05f485c6e12ad8ab/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/83eaca437d92a4e89ceb87889d4d8372/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/83eaca437d92a4e89ceb87889d4d8372/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba0f515bb15cf93273785aff9f0fb83b/transformed/jetified-core-splashscreen-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba0f515bb15cf93273785aff9f0fb83b/transformed/jetified-core-splashscreen-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/0bbe348c7ebe7721bcc37b19591430d6/transformed/jetified-lifecycle-service-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/0bbe348c7ebe7721bcc37b19591430d6/transformed/jetified-lifecycle-service-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.52.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e46b98f5d49a8436ec0d490c9cb7fa52/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/e46b98f5d49a8436ec0d490c9cb7fa52/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e84a6b78026ca30390b98dfb5adeb9e7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/e84a6b78026ca30390b98dfb5adeb9e7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/709490eddf06f027ec84e179a1852bf9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/709490eddf06f027ec84e179a1852bf9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3ebd66ef0585bcdc7e7e30f1fcca375d/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/3ebd66ef0585bcdc7e7e30f1fcca375d/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d1065b79826065174c3021ebc228d542/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d1065b79826065174c3021ebc228d542/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/8862155d0c9aec897676b4be09bee294/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/8862155d0c9aec897676b4be09bee294/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6b43f850db298382c8336e9b8c4b1173/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6b43f850db298382c8336e9b8c4b1173/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/95ae80fa03bc07bf67bd889bab8ee5ab/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/95ae80fa03bc07bf67bd889bab8ee5ab/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6250ee9c75e84cad4e1a89325e254e0b/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/6250ee9c75e84cad4e1a89325e254e0b/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5a2c2e83c3bd689875b25654ecea42b/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/alexeybalabanov/.gradle/caches/transforms-3/e5a2c2e83c3bd689875b25654ecea42b/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/721815c92c962973c84c10e83df414e8/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/alexeybalabanov/.gradle/caches/transforms-3/721815c92c962973c84c10e83df414e8/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/84b5b8b7bcc135eee9d1fa525082abcc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/849ed7df6899ef55d076cae6a16cff75/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/849ed7df6899ef55d076cae6a16cff75/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba7aee3b52877317c4731e1cc3a93aec/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba7aee3b52877317c4731e1cc3a93aec/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ac230aee5019fe0fc159f9d11dca773c/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ac230aee5019fe0fc159f9d11dca773c/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/a55711671a56a0627d73260da230ed6f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/a55711671a56a0627d73260da230ed6f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/42e40dff6ec904025ef7dc7037a1a00e/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/42e40dff6ec904025ef7dc7037a1a00e/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8ae75dab057ed25835aa7720f67e8ba3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8ae75dab057ed25835aa7720f67e8ba3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba0130c68af0c1f075c79142acc313a1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ba0130c68af0c1f075c79142acc313a1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d034eee12ca5004b34dabc684483dbe5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d034eee12ca5004b34dabc684483dbe5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f919d38528ba9041327a469b90d03b28/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/f919d38528ba9041327a469b90d03b28/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/c022454ae1057e19fdf7c62de7cd4cd4/transformed/jetified-leakcanary-object-watcher-android-androidx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/c022454ae1057e19fdf7c62de7cd4cd4/transformed/jetified-leakcanary-object-watcher-android-androidx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/f7718c898b14777c845d8a6c3da11889/transformed/jetified-leakcanary-object-watcher-android-support-fragments-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/f7718c898b14777c845d8a6c3da11889/transformed/jetified-leakcanary-object-watcher-android-support-fragments-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/d034e06a51fa09474833a25abb702cf4/transformed/jetified-leakcanary-object-watcher-android-core-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/d034e06a51fa09474833a25abb702cf4/transformed/jetified-leakcanary-object-watcher-android-core-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9cd98c2dc058a41e8e18df337ba5775/transformed/jetified-plumber-android-core-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9cd98c2dc058a41e8e18df337ba5775/transformed/jetified-plumber-android-core-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/a4b5560270668eece738734da2ee1cda/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/a4b5560270668eece738734da2ee1cda/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/d68daa6046ea70dbfd608bb85bc4d8f6/transformed/jetified-leakcanary-android-utils-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/d68daa6046ea70dbfd608bb85bc4d8f6/transformed/jetified-leakcanary-android-utils-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.curtains:curtains:1.2.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/5f636bb15dc5cc6672aea9c4f07ff8b8/transformed/jetified-curtains-1.2.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.curtains:curtains:1.2.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/5f636bb15dc5cc6672aea9c4f07ff8b8/transformed/jetified-curtains-1.2.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/708e9f42b8ece99c285d6e8daae3882e/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/708e9f42b8ece99c285d6e8daae3882e/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:167:13-169:54
+	android:resource
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:169:17-51
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:168:17-67
+intent-filter#action:name:com.google.android.apps.muzei.api.MuzeiArtProvider
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:178:13-180:29
+action#com.google.android.apps.muzei.api.MuzeiArtProvider
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:179:17-93
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:179:25-90
+meta-data#settingsActivity
+ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:182:13-184:85
+	android:value
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:184:17-82
+	android:name
+		ADDED from /Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/AndroidManifest.xml:183:17-48
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/cd456d6f89c2fa3f5528292e9ac1d9c7/transformed/jetified-firebase-firestore-ktx-24.4.4/AndroidManifest.xml:15:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/5d5d8bb43b1b0404762adaf53483f468/transformed/jetified-firebase-common-ktx-20.3.1/AndroidManifest.xml:15:17-113
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.4] /Users/alexeybalabanov/.gradle/caches/transforms-3/214f0084b1bc86df2590c6d3b42be537/transformed/jetified-firebase-firestore-24.4.4/AndroidManifest.xml:20:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/bbd203a67ad4da86859e8d08cfd8584f/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml:26:13-77
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing-ktx:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7d743908a17bc9089bc636529611f30e/transformed/jetified-billing-ktx-5.1.0/AndroidManifest.xml:9:5-67
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing-ktx:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/7d743908a17bc9089bc636529611f30e/transformed/jetified-billing-ktx-5.1.0/AndroidManifest.xml:9:22-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/da1dcadccba237ad400b5c217d294379/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/fc3f5807ffeae70290d99474d05b618d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/ce33212a61caa9f364161af489ec5fe1/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:26:5-77
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:28:5-77
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:26:22-74
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/bf693e61f6c9c962144c04031828d325/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/9effcf5595833919527bbf6bbae61a7c/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:33:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:32:13-70
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:41:9-72:20
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:45:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:43:13-36
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:44:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:47:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:46:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:42:13-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\.hprof+data:pathPattern:.*\\.hprof+data:scheme:content+data:scheme:file
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:48:13-71:29
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:48:28-81
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:74:9-91:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:77:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:80:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:78:13-36
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:81:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:79:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:76:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:83:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:82:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:75:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:84:13-90:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:89:17-86
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:89:27-83
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:93:9-99:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:97:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:95:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:96:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:99:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:98:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:94:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:101:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/1587b288473cc24edc8ce8995900b937/transformed/jetified-leakcanary-android-core-2.9.1/AndroidManifest.xml:101:19-74
+package#net.nurik.roman.muzei
+ADDED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:27:9-57
+	android:name
+		ADDED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:27:18-54
+meta-data#com.google.android.apps.muzei.api.VERSION
+ADDED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:31:9-33:38
+	android:value
+		ADDED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from [com.google.android.apps.muzei:muzei-api:3.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/b9198801b017653944c874ce0fe8b843/transformed/jetified-muzei-api-3.4.1/AndroidManifest.xml:32:13-69
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/c5d30c47cee67f3eeda2c428016dd3de/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.b_lam.intermedia.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.b_lam.intermedia.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/d705889232043f6bd8e40ffcbcfdab89/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/81401b54683681be20d7d49511854f6b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+provider#leakcanary.internal.MainProcessAppWatcherInstaller
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ef1c654d19114dcb8e63f0a08da5e8e5/transformed/jetified-leakcanary-object-watcher-android-2.9.1/AndroidManifest.xml:9:13-78
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.9.1] /Users/alexeybalabanov/.gradle/caches/transforms-3/ee5a154423b9f9fdffe781fadb87dd26/transformed/jetified-plumber-android-2.9.1/AndroidManifest.xml:9:13-64
+intent#action:name:com.android.vending.billing.InAppBillingService.BIND
+ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:17:9-19:18
+action#com.android.vending.billing.InAppBillingService.BIND
+ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:18:13-91
+	android:name
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:18:21-88
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:23:9-25:37
+	android:value
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:25:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:24:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:27:9-31:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:30:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:29:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:5.1.0] /Users/alexeybalabanov/.gradle/caches/transforms-3/8af4bc90669ca35080228234531dd120/transformed/jetified-billing-5.1.0/AndroidManifest.xml:28:13-78

@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_bottom_sheet_add_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_add_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable-mdpi_ic_no_search_results.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable-mdpi/ic_no_search_results.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_close_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_close_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_instagram_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_instagram_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_auto_wallpaper_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_download_border_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_download_border_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/navigation_onboarding_navigation.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/navigation/onboarding_navigation.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_dialog_thanks.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/dialog_thanks.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_lock_18dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_lock_18dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_user_profile_picture_small_placeholder.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/user_profile_picture_small_placeholder.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_loading_state_layout.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/loading_state_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/anim_item_animation_scale_in.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/anim/item_animation_scale_in.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_compare_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_compare_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/anim_layout_animation_scale_in.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/anim/layout_animation_scale_in.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_public_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_public_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_alternate_email_18dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_alternate_email_18dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_upgrade.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_upgrade.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_auto_wallpaper_popular_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_popular_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_search_terms_edit_text_preference_layout.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/search_terms_edit_text_preference_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_favorite_filled_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_favorite_filled_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_sort_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_sort_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_portrait_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_portrait_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_square_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_square_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_auto_wallpaper_selected_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_selected_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_edit_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_edit_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/anim_bottom_sheet_slide_in.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/anim/bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_resplash_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_resplash_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_cancel_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_cancel_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_preference_master_switch.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/preference_master_switch.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_favorite_border_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_favorite_border_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_debug_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_debug_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_skip_next_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_skip_next_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_fragment_onboarding.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_photo_detail.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_photo_detail.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_debug.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_debug.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_about.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_unsplash_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_unsplash_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_auto_wallpaper_featured_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_featured_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_backup_rules.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_auto_wallpaper_settings.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_auto_wallpaper_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_fragment_discover_auto_wallpaper_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_discover_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_bookmark_border_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_bookmark_border_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_expandable_card_view.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/expandable_card_view.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_main.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_main_bottom_navigation_drawer_profile_header.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/main_bottom_navigation_drawer_profile_header.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_username_edit_text_preference_layout.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/username_edit_text_preference_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_collection_detail.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_collection_detail.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_user.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_user.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_about_preferences.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/about_preferences.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_menu_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_menu_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_auto_wallpaper_shortcut_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_auto_wallpaper_shortcut_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_account_circle_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_account_circle_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_add_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_add_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_webview.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_webview.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_share_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_share_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_auto_size_tab_text.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/auto_size_tab_text.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_check_circle_18dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_check_circle_18dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_toolbar_image_scrim.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/toolbar_image_scrim.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_collection_mini.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_mini.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_bottom_sheet_main_navigation_drawer.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_main_navigation_drawer.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable-xxhdpi_ic_no_search_results.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable-xxhdpi/ic_no_search_results.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_dialog_in_app_messaging.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/dialog_in_app_messaging.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_collection_default.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_default.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_auto_wallpaper_history.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_auto_wallpaper_history.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable-hdpi_ic_no_search_results.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable-hdpi/ic_no_search_results.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_photo_minimal.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_minimal.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_bottom_navigation_header.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_bottom_navigation_header.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_main.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable-xhdpi_ic_no_search_results.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable-xhdpi/ic_no_search_results.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_check_circle_32dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_check_circle_32dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_collection_grid.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_grid.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_bottom_sheet_edit_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_edit_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_filter_list_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_filter_list_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_add_circle_outline_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_add_circle_outline_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_auto_wallpaper_app_widget.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/auto_wallpaper_app_widget.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_auto_wallpaper_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_settings.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_auto_wallpaper_preferences.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/auto_wallpaper_preferences.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_onboarding_layout_1.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/onboarding_layout_1.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_sl_add_circle_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/sl_add_circle_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_search_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_search_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_collection_gradient_overlay.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/collection_gradient_overlay.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_settings_preferences.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/settings_preferences.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_search.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_auto_wallpaper_history.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_history.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_start_onboading.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_start_onboading.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_person_add_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_person_add_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_place_18dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_place_18dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_bottom_sheet_search_photo_filter.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_search_photo_filter.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_fragment_selected_auto_wallpaper_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_selected_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_photo_grid.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_grid.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_auto_wallpaper_app_widget_info.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/auto_wallpaper_app_widget_info.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_expand_more_18dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_expand_more_18dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_auto_wallpaper_history.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_auto_wallpaper_history.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_bottom_navigation_drawer.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_bottom_navigation_drawer.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_remove_circle_outline_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_remove_circle_outline_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_search_shortcut_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_search_shortcut_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_expand_less_18dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_expand_less_18dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_donation.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_donation.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_main_bottom_navigation_drawer_profile_content.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/main_bottom_navigation_drawer_profile_content.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_photo_zoom.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_photo_zoom.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_open_in_browser_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_open_in_browser_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_onboarding_layout_2.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/onboarding_layout_2.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_file_paths.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/anim_bottom_sheet_slide_out.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/anim/bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_login.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_settings_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_settings_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_fragment_swipe_recycler_view.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_swipe_recycler_view.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_auto_wallpaper_settings.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_auto_wallpaper_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_help_outline_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_help_outline_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_donate.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_donate.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/color_sl_text_color.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/color/sl_text_color.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml_muzei_preference.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml/muzei_preference.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_photo_exif.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_exif.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_onboarding_layout_3.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/onboarding_layout_3.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_photo_detail.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_photo_detail.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_wallpaper_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_wallpaper_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/xml-v25_shortcuts.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/xml-v25/shortcuts.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_onboarding_cameras.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/onboarding_cameras.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_bookmark_filled_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_bookmark_filled_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable-xhdpi_ic_skip_next_widget_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable-xhdpi/ic_skip_next_widget_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_info_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_info_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable-xxxhdpi_ic_no_search_results.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable-xxxhdpi/ic_no_search_results.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_edit_profile.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_photo_default.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_default.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_collection_minimal.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_minimal.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_photo_tag.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_tag.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_user.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_user.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_landscape_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_landscape_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_user_default.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_user_default.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_item_dropdown_list.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_dropdown_list.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_bottom_sheet_add_auto_wallpaper_collection.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_add_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_gradient_circle.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/gradient_circle.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_bottom_sheet_handle.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/bottom_sheet_handle.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_auto_wallpaper_app_widget_button.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/auto_wallpaper_app_widget_button.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_activity_muzei_settings.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_muzei_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/drawable_ic_dashboard_24dp.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/drawable/ic_dashboard_24dp.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/menu_menu_collection_detail.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/menu/menu_collection_detail.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/layout_empty_error_state_layout.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/empty_error_state_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-merged_res-72:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.intermedia.intermedia.app-main-74:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

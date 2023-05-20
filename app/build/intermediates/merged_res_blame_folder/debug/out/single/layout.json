@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/loading_state_layout.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/loading_state_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/fragment_onboarding.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/bottom_sheet_search_photo_filter.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_search_photo_filter.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/fragment_swipe_recycler_view.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_swipe_recycler_view.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/main_bottom_navigation_drawer_profile_content.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/main_bottom_navigation_drawer_profile_content.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_upgrade.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_upgrade.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_user_default.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_user_default.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_user.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_user.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/bottom_sheet_add_auto_wallpaper_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_add_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_auto_wallpaper_settings.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_auto_wallpaper_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_photo_tag.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_tag.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_photo_detail.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_photo_detail.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_donate.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_donate.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/preference_master_switch.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/preference_master_switch.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_collection_mini.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_mini.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_collection_minimal.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_minimal.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_collection_detail.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_collection_detail.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_edit_profile.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/onboarding_layout_2.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/onboarding_layout_2.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_photo_grid.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_grid.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_photo_minimal.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_minimal.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_settings.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_login.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_start_onboading.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_start_onboading.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/onboarding_layout_1.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/onboarding_layout_1.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_photo_exif.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_exif.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_collection_grid.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_grid.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_about.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/bottom_sheet_edit_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_edit_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/dialog_in_app_messaging.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/dialog_in_app_messaging.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_auto_wallpaper_selected_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_selected_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/username_edit_text_preference_layout.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/username_edit_text_preference_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_auto_wallpaper_history.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_history.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_auto_wallpaper_featured_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_featured_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/fragment_discover_auto_wallpaper_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_discover_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_auto_wallpaper_history.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_auto_wallpaper_history.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/bottom_sheet_main_navigation_drawer.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_main_navigation_drawer.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_donation.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_donation.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_muzei_settings.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_muzei_settings.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_auto_wallpaper_popular_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_auto_wallpaper_popular_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/dialog_thanks.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/dialog_thanks.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/empty_error_state_layout.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/empty_error_state_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/search_terms_edit_text_preference_layout.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/search_terms_edit_text_preference_layout.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/onboarding_layout_3.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/onboarding_layout_3.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/bottom_sheet_add_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/bottom_sheet_add_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_main.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_collection_default.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_collection_default.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/fragment_selected_auto_wallpaper_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/fragment_selected_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_debug.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_debug.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_search.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/main_bottom_navigation_drawer_profile_header.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/main_bottom_navigation_drawer_profile_header.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_auto_wallpaper_collection.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_auto_wallpaper_collection.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_photo_zoom.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_photo_zoom.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_dropdown_list.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_dropdown_list.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/activity_webview.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/activity_webview.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/item_photo_default.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/item_photo_default.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/expandable_card_view.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/expandable_card_view.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/auto_wallpaper_app_widget.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/auto_wallpaper_app_widget.xml"
+    },
+    {
+        "merged": "com.intermedia.intermedia.app-mergeDebugResources-71:/layout/auto_size_tab_text.xml",
+        "source": "com.intermedia.intermedia.app-main-74:/layout/auto_size_tab_text.xml"
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.intermedia.intermedia.app-mergeDebugResources-70:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/alexeybalabanov/Desktop/final/android-practice-dpo/app/src/main/res/values-v29/arrays.xml",
+                    "from": {
+                        "startLines": "4,9,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "73,257,398",
+                        "endLines": "8,13,14",
+                        "endColumns": "19,19,76",
+                        "endOffsets": "252,393,470"
+                    },
+                    "to": {
+                        "startLines": "2,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,239,380",
+                        "endLines": "6,11,12",
+                        "endColumns": "19,19,76",
+                        "endOffsets": "234,375,452"
+                    }
+                },
+                {
+                    "source": "/Users/alexeybalabanov/.gradle/caches/transforms-3/ba0f515bb15cf93273785aff9f0fb83b/transformed/jetified-core-splashscreen-1.0.0/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    },
+                    "to": {
+                        "startLines": "13,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "457,776",
+                        "endLines": "17,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "771,866"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:icon="@drawable/ic_search_shortcut_24dp"
+        android:shortcutId="search"
+        android:shortcutShortLabel="@string/search">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.intermedia.intermedia.ui.main.MainActivity"
+            android:targetPackage="com.intermedia.intermedia" />
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.intermedia.intermedia.ui.search.SearchActivity"
+            android:targetPackage="com.intermedia.intermedia" />
+    </shortcut>
+
+    <shortcut
+        android:icon="@drawable/ic_auto_wallpaper_shortcut_24dp"
+        android:shortcutId="autowallpaper"
+        android:shortcutShortLabel="@string/auto_wallpaper_title">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.intermedia.intermedia.ui.main.MainActivity"
+            android:targetPackage="com.intermedia.intermedia" />
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.intermedia.intermedia.ui.autowallpaper.AutoWallpaperSettingsActivity"
+            android:targetPackage="com.intermedia.intermedia" />
+    </shortcut>
+</shortcuts>
